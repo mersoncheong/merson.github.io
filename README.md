@@ -1,2 +1,1 @@
-# mersoncheong.github.io
-My Personal Website
+# Personal Website
